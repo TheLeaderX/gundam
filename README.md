@@ -1,3 +1,4 @@
 # gundam
 exia 
 dynames
+kirios
