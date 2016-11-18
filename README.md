@@ -1,2 +1,3 @@
 # gundam
 exia 
+dynames
